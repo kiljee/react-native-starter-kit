@@ -1,0 +1,49 @@
+PODS:
+  - React (0.59.5):
+    - React/Core (= 0.59.5)
+  - React/Core (0.59.5):
+    - yoga (= 0.59.5.React)
+  - React/DevSupport (0.59.5):
+    - React/Core
+    - React/RCTWebSocket
+  - React/fishhook (0.59.5)
+  - React/RCTBlob (0.59.5):
+    - React/Core
+  - React/RCTImage (0.59.5):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTLinkingIOS (0.59.5):
+    - React/Core
+  - React/RCTNetwork (0.59.5):
+    - React/Core
+  - React/RCTWebSocket (0.59.5):
+    - React/Core
+    - React/fishhook
+    - React/RCTBlob
+  - RNGestureHandler (1.2.1):
+    - React
+  - yoga (0.59.5.React)
+
+DEPENDENCIES:
+  - React/DevSupport (from `../node_modules/react-native`)
+  - React/RCTImage (from `../node_modules/react-native`)
+  - React/RCTLinkingIOS (from `../node_modules/react-native`)
+  - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
+  - yoga (from `../node_modules/react-native/ReactCommon/yoga`)
+
+EXTERNAL SOURCES:
+  React:
+    :path: "../node_modules/react-native"
+  RNGestureHandler:
+    :path: "../node_modules/react-native-gesture-handler"
+  yoga:
+    :path: "../node_modules/react-native/ReactCommon/yoga"
+
+SPEC CHECKSUMS:
+  React: 90adac468c7b72bf1fa6c64bf230650f851a8388
+  RNGestureHandler: aea90f0ad8e35fec23438db6fc3ad79be58bb734
+  yoga: 2e571f113e8cbeb0eb752aeebc86c1bfe7a8200c
+
+PODFILE CHECKSUM: 07dbfbc8011e5d1b08d9ccbe62d83ce2e5de9e47
+
+COCOAPODS: 1.6.1
