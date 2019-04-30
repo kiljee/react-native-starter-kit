@@ -1,7 +1,6 @@
 # React Native Starter kit 🚀
 
-*You're viewing the new and updated version of React Native Starter, previous version can be found under the [v1 branch](https://github.com/flatlogic/react-native-starter/tree/v1)*
-
+*You're viewing the new and updated version of React Native Starter kit
 A fast starter with react native and redux . 
 
 ## What's inside
